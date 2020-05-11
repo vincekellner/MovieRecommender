@@ -1,4 +1,24 @@
-# HandlingConceptDrift
-Strategies to detect and handle incremental concept drift in time series data
+# MovieRecommender
+This is a playground to apply and try out various approaches for recommender systems based on the publicly available movielens dataset (https://grouplens.org/datasets/movielens/) 
 
-Based on the dataset of NYC Taxi and Limousine Commission (TLC) (https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) in which various types of drift can be detected, different strategies are provided how to handle incremental drift. The general idea is to provide different approaches to handle incremental drift even though one does not known in advance whether the data is affected by drift or not. A sample of the preprocessed data is provided. In addition, the complete data of the 10 and 20 busiest taxi zones in terms of the overall demand is available.
+Some of the approaches are inspired by the talk of Daniel Pyrathon at PyCon2018: "A practical guide to SVD"
+
+https://github.com/PirosB3/PyConUS2018
+
+
+
+
+## Possible techniques to try out:
+- Simple CF approaches based on weighted similarities
+- SVD approach
+- Graph based approaches
+- ...
+
+
+
+
+## References:
+F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. <https://doi.org/10.1145/2827872>
+
+
+
