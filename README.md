@@ -9,7 +9,7 @@ https://github.com/PirosB3/PyConUS2018
 
 
 ## Possible techniques to try out:
-- Simple CF approaches based on weighted similarities
+- Simple Collaborative Filtering (CF) approaches based on weighted similarities
 - SVD approach
 - Graph based approaches
 - ...
