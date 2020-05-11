@@ -1,5 +1,5 @@
 # MovieRecommender
-This is a playground to apply and try out various approaches for recommender systems based on the publicly available movielens dataset (https://grouplens.org/datasets/movielens/) 
+This is a playground to apply and try out various approaches for recommender systems based on the publicly available Movielens dataset (https://grouplens.org/datasets/movielens/) 
 
 Some of the approaches are inspired by the talk of Daniel Pyrathon at PyCon2018: "A practical guide to SVD"
 
