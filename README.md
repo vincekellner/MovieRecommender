@@ -1,11 +1,12 @@
 # MovieRecommender
-This is a playground to apply and try out various approaches for recommender systems based on the publicly available Movielens dataset (https://grouplens.org/datasets/movielens/) 
+This is a playground to apply and try out various approaches for recommender systems based on the publicly available MovieLens dataset (https://grouplens.org/datasets/movielens/) 
 
 Some of the approaches are inspired by the talk of Daniel Pyrathon at PyCon2018: "A practical guide to SVD"
 
 https://github.com/PirosB3/PyConUS2018
 
 
+A sample (first 100K rows) of the MovieLens dataset "MovieLens 25M Dataset" is provided.
 
 
 ## Possible techniques to try out:
