@@ -1,12 +1,11 @@
 # MovieRecommender
 This is a playground to apply and try out various approaches for recommender systems based on the publicly available MovieLens dataset (https://grouplens.org/datasets/movielens/) 
 
-Some of the approaches are inspired by the talk of Daniel Pyrathon at PyCon2018: "A practical guide to SVD"
-
-https://github.com/PirosB3/PyConUS2018
-
 
 A sample (first 100K rows) of the MovieLens dataset "MovieLens 25M Dataset" is provided.
+The EDA is based on a sample of the "MovieLens 25M Dataset"
+
+The SVD approach is applied on the "MovieLens 190K Dataset" to handle the size of the utility matrix
 
 
 ## Possible techniques to try out:
@@ -20,6 +19,7 @@ A sample (first 100K rows) of the MovieLens dataset "MovieLens 25M Dataset" is p
 
 ## References:
 F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. <https://doi.org/10.1145/2827872>
+
 
 
 
