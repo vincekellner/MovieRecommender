@@ -5,7 +5,7 @@ This is a playground to apply and try out various approaches for recommender sys
 A sample (first 100K rows) of the MovieLens dataset "MovieLens 25M Dataset" is provided.
 The EDA is based on a sample of the "MovieLens 25M Dataset"
 
-The SVD approach is applied on the "MovieLens 190K Dataset" to handle the size of the utility matrix
+The SVD approach is applied on the "MovieLens 100K Dataset" to handle the size of the utility matrix
 
 
 ## Possible techniques to try out:
