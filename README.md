@@ -21,6 +21,7 @@ The SVD approach is applied on the smaller "MovieLens 100K Dataset (09/2018)" to
 ## References:
 F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. <https://doi.org/10.1145/2827872>
 
-
+Simon Funk's blog post:
+https://sifter.org/~simon/journal/20061211.html
 
 
