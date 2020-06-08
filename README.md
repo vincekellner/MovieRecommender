@@ -2,7 +2,7 @@
 This is a playground to apply and try out various approaches for recommender systems based on the publicly available MovieLens dataset (https://grouplens.org/datasets/movielens/) 
 
 
-A sample (first 100K rows) of the MovieLens dataset "MovieLens 25M Dataset" is provided.
+A sample (first 100K rows) of the MovieLens dataset "MovieLens 25M Dataset" is provided as well as the "MovieLens 100K Dataset (09/2018)" dataset.
 
 The EDA is based on a sample of the "MovieLens 25M Dataset"
 
